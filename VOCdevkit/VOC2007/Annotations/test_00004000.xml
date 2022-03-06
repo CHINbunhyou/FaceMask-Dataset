@@ -1,0 +1,138 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>image\test_00004000.jpg</filename>.
+    <source>
+        <database>The VOC2007 Database</database>
+        <annotation>PASCAL VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>325991873</flickrid>
+    </source>
+    <owner>
+        <flickrid>null</flickrid>
+        <name>null</name>
+    </owner>    
+    <size>
+        <width>214</width>
+        <height>220</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>18</xmin>
+            <ymin>10</ymin>
+            <xmax>50</xmax>
+            <ymax>49</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>166</xmin>
+            <ymin>163</ymin>
+            <xmax>196</xmax>
+            <ymax>204</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>127</xmin>
+            <ymin>9</ymin>
+            <xmax>156</xmax>
+            <ymax>42</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>126</xmin>
+            <ymin>109</ymin>
+            <xmax>152</xmax>
+            <ymax>151</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>118</xmin>
+            <ymin>64</ymin>
+            <xmax>152</xmax>
+            <ymax>103</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>170</xmin>
+            <ymin>57</ymin>
+            <xmax>205</xmax>
+            <ymax>103</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>72</xmin>
+            <ymin>62</ymin>
+            <xmax>91</xmax>
+            <ymax>98</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>107</ymin>
+            <xmax>54</xmax>
+            <ymax>152</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>75</xmin>
+            <ymin>165</ymin>
+            <xmax>96</xmax>
+            <ymax>205</ymax>
+        </bndbox>
+    </object>
+    
+</annotation>

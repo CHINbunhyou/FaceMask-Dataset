@@ -1,0 +1,47 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>image\test_00002564.jpg</filename>.
+    <source>
+        <database>The VOC2007 Database</database>
+        <annotation>PASCAL VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>325991873</flickrid>
+    </source>
+    <owner>
+        <flickrid>null</flickrid>
+        <name>null</name>
+    </owner>    
+    <size>
+        <width>1000</width>
+        <height>340</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>650</xmin>
+            <ymin>35</ymin>
+            <xmax>757</xmax>
+            <ymax>153</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>HaveMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>825</xmin>
+            <ymin>39</ymin>
+            <xmax>927</xmax>
+            <ymax>176</ymax>
+        </bndbox>
+    </object>
+    
+</annotation>

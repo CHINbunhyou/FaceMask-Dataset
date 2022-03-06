@@ -1,0 +1,60 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>image\test_00003479.jpg</filename>.
+    <source>
+        <database>The VOC2007 Database</database>
+        <annotation>PASCAL VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>325991873</flickrid>
+    </source>
+    <owner>
+        <flickrid>null</flickrid>
+        <name>null</name>
+    </owner>    
+    <size>
+        <width>900</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+    <object>        
+        <name>NoMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>613</xmin>
+            <ymin>64</ymin>
+            <xmax>719</xmax>
+            <ymax>215</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>NoMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>135</xmin>
+            <ymin>147</ymin>
+            <xmax>241</xmax>
+            <ymax>284</ymax>
+        </bndbox>
+    </object>
+    
+    <object>        
+        <name>NoMask</name>
+        <pose>Rear</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>436</xmin>
+            <ymin>180</ymin>
+            <xmax>537</xmax>
+            <ymax>314</ymax>
+        </bndbox>
+    </object>
+    
+</annotation>
